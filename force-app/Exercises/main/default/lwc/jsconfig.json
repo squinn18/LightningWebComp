@@ -11,6 +11,9 @@
             ],
             "c/studentTile": [
                 "studentTile/studentTile.js"
+            ],
+            "c/studentTiles": [
+                "studentTiles/studentTiles.js"
             ]
         }
     },

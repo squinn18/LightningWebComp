@@ -3,9 +3,9 @@
 }
 
 .tile {
-	width: 128px;
-	height: 128px;
-	padding: 1px;
+	width: 150px;
+	height: 150px;
+	padding: 2px;
 	display: inline-block;
 }
 
