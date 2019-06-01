@@ -1,0 +1,2642 @@
+[
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197846000,
+            "changeTime": 1559320768980,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197856000,
+            "changeTime": 1559320768965,
+            "contentHash": "a21009004cd572d890d65233421722a21fcb20a4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197856000,
+            "changeTime": 1559320768965,
+            "contentHash": "9a5cb4ea864e13530493bec036a51f033b95e0b4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197856000,
+            "changeTime": 1559320768965,
+            "contentHash": "9a5cb4ea864e13530493bec036a51f033b95e0b4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\lwc",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197856000,
+            "changeTime": 1559320768965,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197846000,
+            "changeTime": 1559320768980,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197846000,
+            "changeTime": 1559320768965,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "fb0aad6d070f5a367af15c1e5668d1bca1b54a71",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\applications",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197856000,
+            "changeTime": 1559320768965,
+            "contentHash": "bf762bceaeeb57dd902e541f85ce81bcdcfade7e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\applications\\Certification_Classic.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\applications\\Certification_Classic.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 746,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767999,
+            "contentHash": "14a0ac58cf07f4610737fe27cdf7cc0a3c28d740",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\applications\\Certification_Lightning.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\applications\\Certification_Lightning.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 957,
+            "modifiedTime": 1557197856000,
+            "changeTime": 1559320768000,
+            "contentHash": "dff4b68b72de12d957d8cfae9932119d0519931c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "66c7741de613587fd185b076abc3df44a24f8e56",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\classes\\CourseAttendeeTriggerHandler.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\classes\\CourseAttendeeTriggerHandler.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1496,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767812,
+            "contentHash": "5209f6394d0b2550b054f2609872f59fccb30cbe",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\classes\\CourseAttendeeTriggerHandler.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\classes\\CourseAttendeeTriggerHandler.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 168,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767812,
+            "contentHash": "6338b21526e1f1c3f7835ee02e6f925caf461542",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\classes\\CourseTriggerHandler.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\classes\\CourseTriggerHandler.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1485,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767812,
+            "contentHash": "304d5f6fd8c86a54fa54c75432cc04e38a5fa7a9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\classes\\CourseTriggerHandler.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\classes\\CourseTriggerHandler.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 168,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767812,
+            "contentHash": "6338b21526e1f1c3f7835ee02e6f925caf461542",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\classes\\DataBuilder.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\classes\\DataBuilder.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 97072,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767812,
+            "contentHash": "4074431ea7311a52119d8db122fd4da193c95a83",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\classes\\DataBuilder.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\classes\\DataBuilder.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 168,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767828,
+            "contentHash": "1c0e6143dde02a6cb5b87494ba789c25ca51857c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\contentassets",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\contentassets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "97f83b501ddab48c0f24f52c5323809278587416",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\contentassets\\CertificationAppLogo.asset",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\contentassets\\CertificationAppLogo.asset",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 13264,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767812,
+            "contentHash": "6abef0bfb6aa233471b967d5c0fa694ec391af72",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\contentassets\\CertificationAppLogo.asset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\contentassets\\CertificationAppLogo.asset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 481,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767812,
+            "contentHash": "a8f2e41da519d3ced4fa287f47a1a031338da5e7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\documents",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\documents",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "2574b274dfc339a2d32e75cde99636376c674bf9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\documents\\Shared_Documents.documentFolder-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\documents\\Shared_Documents.documentFolder-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 238,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768002,
+            "contentHash": "d4c43efb3508b83ed352d66a214b08ed9c2418e2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "e29573ba8e482439de4e4b6fabe201f81cbe659f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4141,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767828,
+            "contentHash": "2e4a0510be2bb6c46bd9f6478b4adc5c93d8d2af",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\flexipages\\Certification_Element_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\flexipages\\Certification_Element_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3928,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767828,
+            "contentHash": "e966265c1d496698ab80c8e6324b538b055f2f01",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\flexipages\\Certification_Held_Record_Page.flexipage",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\flexipages\\Certification_Held_Record_Page.flexipage",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3669,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767828,
+            "contentHash": "a13fc855bac0a2e4cd766ab32f05599f745c857a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\flexipages\\Certification_Held_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\flexipages\\Certification_Held_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3669,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767828,
+            "contentHash": "a13fc855bac0a2e4cd766ab32f05599f745c857a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\flexipages\\Certification_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\flexipages\\Certification_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3796,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767828,
+            "contentHash": "a7c249e400fef47253aebde8f57f13b778ad4637",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\flexipages\\Course_Delivery_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\flexipages\\Course_Delivery_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3800,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767828,
+            "contentHash": "b06cd7335ff91861160aa1967077a8c8705ad638",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\flexipages\\Course_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\flexipages\\Course_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3782,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767828,
+            "contentHash": "821d45565bd5f3de72efdcbf8c87531ee2fee334",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "ef9df1730e41c9b495609bdf798d18c78c5c440b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\layouts\\Certification_Held__c-Certification Held Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\layouts\\Certification_Held__c-Certification Held Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2831,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767990,
+            "contentHash": "bbdf205f636177d1e5b045a52b914ccd1374e582",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\layouts\\Certification__c-Certification Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\layouts\\Certification__c-Certification Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5660,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767987,
+            "contentHash": "1cddc5d740e8cdde78672ee31ab625e78699c7c3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\layouts\\Contact-Contact Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\layouts\\Contact-Contact Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 7938,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767981,
+            "contentHash": "6b18511e4f161d2e93fd90e0bb6f12969bca012d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\layouts\\Course_Attendee__c-Course Attendee Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\layouts\\Course_Attendee__c-Course Attendee Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2661,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767989,
+            "contentHash": "566412d3eb2ef10f8a8a076beb0b5a2360e682d1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\layouts\\Course_Delivery__c-Course Delivery Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\layouts\\Course_Delivery__c-Course Delivery Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6673,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767983,
+            "contentHash": "1b9e961b3656c699784758f5ee1c38a280c13aaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\layouts\\Course__c-Course Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\layouts\\Course__c-Course Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4941,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767986,
+            "contentHash": "8db589ce59f30eec777384460d5e0c78d8f48852",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\layouts\\TripReport__c-Trip Report Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\layouts\\TripReport__c-Trip Report Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4107,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767984,
+            "contentHash": "782a0e3d5dc7b71f5f3c1d844c2e4ed377f7d474",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "d25a226335a9bea424a03cec29eaa15a75bd5517",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Account",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "982b09a463007d1482b64a9f7f00a09ae1844104",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Account\\Account.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Account\\Account.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 431,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767943,
+            "contentHash": "494fe17edc3583284a74921d4c0be0aa7c2b6682",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "122173cfbac0c225e0894b8cd8d4d0fc84c76d81",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Account\\fields\\Status__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Account\\fields\\Status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 994,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767943,
+            "contentHash": "ae5727bfd07d4b460c43046cfe3dafb8010b339a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Account\\fields\\Support_Level__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Account\\fields\\Support_Level__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1182,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767943,
+            "contentHash": "b5f8cd1f5f5e2b9d8bd34fd586dc14ed48c19f5e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Account\\listViews",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Account\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "cbeec706310db4dfc3f428c0df09932d6c89ff8c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Account\\listViews\\AllAccounts.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Account\\listViews\\AllAccounts.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 447,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767943,
+            "contentHash": "3d7c2dbd07622b2b065dd2e976e1d2feae811a9b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Account\\listViews\\MyAccounts.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Account\\listViews\\MyAccounts.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767943,
+            "contentHash": "6530b3fdd11839024789fb426fb8a247684ae409",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Account\\listViews\\NewThisWeek.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Account\\listViews\\NewThisWeek.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 514,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767943,
+            "contentHash": "b0898210ec632782de0d476e069efce457aa65b6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Account\\listViews\\Service.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Account\\listViews\\Service.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 531,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767943,
+            "contentHash": "b2cce24027739b84b061d9cc2c2c12bea155c016",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Account\\recordTypes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Account\\recordTypes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "824dec3ca87bfeb8c83f2326261a410c28bbbeef",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Account\\recordTypes\\Customer.recordType-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Account\\recordTypes\\Customer.recordType-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6393,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767958,
+            "contentHash": "5ae665d2e8f5765dea9932530da83dd2bf80421b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Account\\recordTypes\\Service_Vendor.recordType-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Account\\recordTypes\\Service_Vendor.recordType-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6336,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767958,
+            "contentHash": "020d4cef9330b28f8b594f60e8e7ed6bf5667865",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Case",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Case",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "8de130ce94714405598b519c7843b22ab361a643",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Case\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Case\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "c57fc58ca485aff75cefe5f4ac2d7d6ea474f946",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Case\\fields\\Bug_Number__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Case\\fields\\Bug_Number__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 581,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767927,
+            "contentHash": "deb2777eb23ce979da05e5d103e0a6bf33d4285f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Case\\fields\\Product_Category__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Case\\fields\\Product_Category__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1384,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767927,
+            "contentHash": "a88468d895db8c0ad57682615ca9f74cf9a2902b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Case\\fields\\Proposed_Solution__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Case\\fields\\Proposed_Solution__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 590,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767927,
+            "contentHash": "cb2f3f6b01826ff95881badc4edfcab75fd6d619",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Case\\fields\\Requirements__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Case\\fields\\Requirements__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 590,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767927,
+            "contentHash": "f9559baf88f364e466fc54a7a5571132a596e21b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Case\\fieldSets",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Case\\fieldSets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "c85a01845bba24e547ba2c7d42335ef422239f99",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Case\\fieldSets\\EnhancedGrid.fieldSet-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Case\\fieldSets\\EnhancedGrid.fieldSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1149,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767927,
+            "contentHash": "633aa2ff541fbc137f2d018e754572272e36214d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification_Element__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification_Element__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "a69c1c81eeebea058acfff6472b85387284f5bf6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification_Element__c\\Certification_Element__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification_Element__c\\Certification_Element__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2233,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767927,
+            "contentHash": "993b4b292e37462137de94cd18bc4942d0badcea",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification_Element__c\\compactLayouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification_Element__c\\compactLayouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "e03af1fc1f56e1116c7cc411647f2299b5bf42cd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification_Element__c\\compactLayouts\\Default_Compact_Layout.compactLayout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification_Element__c\\compactLayouts\\Default_Compact_Layout.compactLayout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 288,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767943,
+            "contentHash": "cf007517b32ad23b80fd617592cc4f06bef199da",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification_Element__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification_Element__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "0cdbe4b90f4b8e2d16727781672e25f9d094e41f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification_Element__c\\fields\\Certification__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification_Element__c\\fields\\Certification__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 707,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767927,
+            "contentHash": "449dce0409cbb7606d8775ccb6d2a9fbba0ee0f5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification_Element__c\\fields\\Description__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification_Element__c\\fields\\Description__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 440,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767943,
+            "contentHash": "3472dfbc4d985e25e7ba1bf58bba34328a6cbc32",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification_Element__c\\fields\\Type__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification_Element__c\\fields\\Type__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 713,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767927,
+            "contentHash": "ac3eea8cc99e0a30d4e099a4edebbb154a6beeab",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification_Held__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification_Held__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "b95a039e8c8d6e9fae2478770d972bb8b2947dae",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification_Held__c\\Certification_Held__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification_Held__c\\Certification_Held__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2240,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767844,
+            "contentHash": "a553617e87a75f443377db97959ec459de8bdbca",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification_Held__c\\compactLayouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification_Held__c\\compactLayouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "e03af1fc1f56e1116c7cc411647f2299b5bf42cd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification_Held__c\\compactLayouts\\Default_Compact_Layout.compactLayout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification_Held__c\\compactLayouts\\Default_Compact_Layout.compactLayout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 341,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767844,
+            "contentHash": "15408f0713a5fa4263b29494ab43437aa2002b7b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification_Held__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification_Held__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "bf8b5a0e94539be908cd3b0ee024b11afaadeacb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification_Held__c\\fields\\Certification__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification_Held__c\\fields\\Certification__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 699,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767844,
+            "contentHash": "80b529f4f9b25647e7973b5bb5988a47684c5e9d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification_Held__c\\fields\\Certified_Professional_Name__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification_Held__c\\fields\\Certified_Professional_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 745,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767844,
+            "contentHash": "e2bab23e15559079778a06c803f15bb2d583fc55",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification_Held__c\\fields\\Certified_Professional__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification_Held__c\\fields\\Certified_Professional__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 928,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767844,
+            "contentHash": "c67616dfaa6034944e456aa5cf25885285ab6ed9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification_Held__c\\fields\\Date_Achieved__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification_Held__c\\fields\\Date_Achieved__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 399,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767844,
+            "contentHash": "7b9e805ab6aac3ce637077dda12816baed16e57b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "05509f1191243e19a0d8896f329cecc3dac634aa",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification__c\\Certification__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification__c\\Certification__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2401,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767875,
+            "contentHash": "7eb4976c61dc15291aabf127869c7c2c119b355b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification__c\\compactLayouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification__c\\compactLayouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "e03af1fc1f56e1116c7cc411647f2299b5bf42cd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification__c\\compactLayouts\\Default_Compact_Layout.compactLayout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification__c\\compactLayouts\\Default_Compact_Layout.compactLayout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 336,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767891,
+            "contentHash": "090f701fa4df327e9ca8d269df62b0c0dd9c046a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "1995520f6246df6f61b7e98ed3435d02fa03b00b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification__c\\fields\\Certification_Description__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification__c\\fields\\Certification_Description__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 460,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767891,
+            "contentHash": "4467bd8d4e956993b021998353f9ac9fd4497769",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification__c\\fields\\Number_of_Certified_Professionals__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification__c\\fields\\Number_of_Certified_Professionals__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 557,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767891,
+            "contentHash": "65fa9d3b56dc6041d004d9b9780c76143e2871be",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification__c\\fields\\Status__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification__c\\fields\\Status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 834,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767891,
+            "contentHash": "71318e11df380ed8ed98f140fc7ff20d578cfd7e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification__c\\listViews",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Certification__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 356,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767875,
+            "contentHash": "7c918de8e029958085104e0117cdf699e67c0cad",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Contact",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Contact",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "f3fc1c9bcaf281308800176ef0d3036fb5e32c1c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Contact\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Contact\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "71b4be398ec586def0e9af23e6d875e1a1e5d2a7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Contact\\fields\\Number_of_Certifications_Held__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Contact\\fields\\Number_of_Certifications_Held__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 472,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767875,
+            "contentHash": "8d047cb30e9df443d3e0a0b784be01f9c510f5f5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Contact\\fields\\Status__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Contact\\fields\\Status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 820,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767875,
+            "contentHash": "93cba48606e39e0eebc979ffca4d94ec7c6cb400",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Contact\\listViews",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Contact\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "d7cf73f8ecd2fce5aa476b3ee17e362034d9a1a4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Contact\\listViews\\AllContacts.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Contact\\listViews\\AllContacts.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 415,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767875,
+            "contentHash": "7b50c7ee8b3ac2a2dfa0c51ad66363be729c66ab",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Contact\\listViews\\BirthdaysThisMonth.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Contact\\listViews\\BirthdaysThisMonth.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 586,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767860,
+            "contentHash": "b6d2e7ff52b192f754bad16aed2e7308d5363909",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Contact\\listViews\\NewThisWeek.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Contact\\listViews\\NewThisWeek.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 536,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767875,
+            "contentHash": "56d35db71d7c5c352cf938662f07ecfcf1415268",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Contact\\recordTypes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Contact\\recordTypes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "192377abe70eb819cc7c192f4b2294943692f853",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Contact\\recordTypes\\Standard.recordType-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Contact\\recordTypes\\Standard.recordType-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2006,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767875,
+            "contentHash": "5c4c5aa3c8b35695040869b306ba6c5e16794d3b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Contact\\recordTypes\\Technician.recordType-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Contact\\recordTypes\\Technician.recordType-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2011,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767875,
+            "contentHash": "4cbcdab9081ba348f0e2c66f6156d77c3ff37adc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Attendee__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Attendee__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197856000,
+            "changeTime": 1559320768965,
+            "contentHash": "f227ab4933543f56141940a4be47f2cb836d59a2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Attendee__c\\Course_Attendee__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Attendee__c\\Course_Attendee__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1967,
+            "modifiedTime": 1557197856000,
+            "changeTime": 1559320767907,
+            "contentHash": "31beb311f897a1a43baa376f6bf12dd06f11e312",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Attendee__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Attendee__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "7a0027a0ef2a2a8f3271bef3ca1df23380e501d3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Attendee__c\\fields\\Course_Delivery__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Attendee__c\\fields\\Course_Delivery__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 711,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767922,
+            "contentHash": "7f19a64d22898480ffcfc7424071f3f0ad32e310",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Attendee__c\\fields\\InstructorNotes__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Attendee__c\\fields\\InstructorNotes__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 372,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767922,
+            "contentHash": "347f63c9ac191da696e027b8730dcedf023c491a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Attendee__c\\fields\\Status__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Attendee__c\\fields\\Status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1198,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767907,
+            "contentHash": "6276592f662833d4e4f64a58201522cb5be7b87b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Attendee__c\\fields\\Student_Name__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Attendee__c\\fields\\Student_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 596,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767927,
+            "contentHash": "93968fdf1f87e6a6b0b8584917fee8de56e62a4f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Attendee__c\\fields\\Student__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Attendee__c\\fields\\Student__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 912,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767922,
+            "contentHash": "3b121163e7e1052bce6fb39c43ebedf334b64f13",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Delivery__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Delivery__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197856000,
+            "changeTime": 1559320768965,
+            "contentHash": "7624017ad22d29b8f3ff24baa24d544552d02da5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Delivery__c\\compactLayouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Delivery__c\\compactLayouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "e03af1fc1f56e1116c7cc411647f2299b5bf42cd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Delivery__c\\compactLayouts\\Default_Compact_Layout.compactLayout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Delivery__c\\compactLayouts\\Default_Compact_Layout.compactLayout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 413,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767907,
+            "contentHash": "88e85c7d07507626d18f6c8567a58a48d045d4f3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Delivery__c\\Course_Delivery__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Delivery__c\\Course_Delivery__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2613,
+            "modifiedTime": 1557197856000,
+            "changeTime": 1559320767891,
+            "contentHash": "3b7e47647a22712aba50de1ff88f5d18d2d94313",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Delivery__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Delivery__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "9d2de9139fea4af646a92409c05724cc3d759b84",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Delivery__c\\fields\\Attendee_Count__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Delivery__c\\fields\\Attendee_Count__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 596,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767907,
+            "contentHash": "8a7c73dc58833545bcd566906153e2c446328a69",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Delivery__c\\fields\\City__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Delivery__c\\fields\\City__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 392,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767907,
+            "contentHash": "2de7f26b6df1480261e98ecc5dfda7e4ca61fc6b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Delivery__c\\fields\\Country__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Delivery__c\\fields\\Country__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 398,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767891,
+            "contentHash": "10df5a09fad29fd31774aa340b2671f5bcc16c74",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Delivery__c\\fields\\Course__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Delivery__c\\fields\\Course__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 668,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767907,
+            "contentHash": "dc81c00a6aebb97e347eed47b8d36828a8bf9044",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Delivery__c\\fields\\Instructor__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Delivery__c\\fields\\Instructor__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 753,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767907,
+            "contentHash": "d0a5ff3103981b6fdf4ffd8d089eb007364f53b4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Delivery__c\\fields\\Location__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Delivery__c\\fields\\Location__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2553,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767891,
+            "contentHash": "1bceffe1183da17a690a21f4114301426eea728a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Delivery__c\\fields\\Region__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Delivery__c\\fields\\Region__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 811,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767891,
+            "contentHash": "f7fbfb376ec438a6084aa1d9bb67782667cf3a8f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Delivery__c\\fields\\Start_Date__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Delivery__c\\fields\\Start_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 388,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767907,
+            "contentHash": "1f74b0c8813d2ad0c51f6ffb768714f3e81ce197",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Delivery__c\\fields\\Status__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Delivery__c\\fields\\Status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 833,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767891,
+            "contentHash": "a266e52e706e063884340f419a0599715f08ffe7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Delivery__c\\listViews",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Delivery__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Delivery__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Delivery__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 410,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767891,
+            "contentHash": "5043ccdcfff755fb0a7f54d2c451e06b0f47b1f8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "f198b30f0fbf7f3f7239bf8f8e86b47c963c6376",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course__c\\compactLayouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course__c\\compactLayouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "e03af1fc1f56e1116c7cc411647f2299b5bf42cd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course__c\\compactLayouts\\Default_Compact_Layout.compactLayout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course__c\\compactLayouts\\Default_Compact_Layout.compactLayout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 365,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767860,
+            "contentHash": "3da5e91b6fc373e4083a7c0f2800b209dc55878b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course__c\\Course__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course__c\\Course__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2425,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767860,
+            "contentHash": "e0cdd01c18998b906880022c2b677bacabab4f6a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "e7905c0244186f5e013f5042d2ff5687879f3a41",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course__c\\fields\\Certification__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course__c\\fields\\Certification__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 593,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767860,
+            "contentHash": "db4d4ec3bd684386a59d2afeea9ef1b485ad0f60",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course__c\\fields\\Course_Description__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course__c\\fields\\Course_Description__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 458,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767860,
+            "contentHash": "f55e65d15acf42841af5913786b8bfd62a5336ef",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course__c\\fields\\Duration__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course__c\\fields\\Duration__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 525,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767860,
+            "contentHash": "886549c16f9d7053330f61e49b8a3194bf60fea6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course__c\\fields\\Number_of_Courses_Delivered__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course__c\\fields\\Number_of_Courses_Delivered__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 656,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767860,
+            "contentHash": "ccf2d70a283e917e5565adbb6335878e71451302",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course__c\\fields\\Status__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course__c\\fields\\Status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 815,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767860,
+            "contentHash": "22ad9114c7d12923437c939fad61f280f924d791",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course__c\\listViews",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 370,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767860,
+            "contentHash": "9d620324631800d319aec47f517d8c2bac5c77bc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\TripReport__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\TripReport__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "8e9421468b1bae8385dd35aaba0bb821ea70b7a4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\TripReport__c\\compactLayouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\TripReport__c\\compactLayouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "e03af1fc1f56e1116c7cc411647f2299b5bf42cd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\TripReport__c\\compactLayouts\\Default_Compact_Layout.compactLayout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\TripReport__c\\compactLayouts\\Default_Compact_Layout.compactLayout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 345,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767975,
+            "contentHash": "f0694865842cb4e382ad516c38c643cdd56be40c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\TripReport__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\TripReport__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "889c918962ab7fa7cd952aff956545ea831ed339",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\TripReport__c\\fields\\Date__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\TripReport__c\\fields\\Date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 284,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767967,
+            "contentHash": "267fc7d901a61eea10c9747472fd507e1ca3d5e6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\TripReport__c\\fields\\Instructor__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\TripReport__c\\fields\\Instructor__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 428,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767972,
+            "contentHash": "ac2aef48218e673abf1ddad135b00895b3727b67",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\TripReport__c\\fields\\Rating__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\TripReport__c\\fields\\Rating__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 358,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767971,
+            "contentHash": "fe42d134bb9ee043b90a1b374fa604112a876efd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\TripReport__c\\fields\\ReviewType__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\TripReport__c\\fields\\ReviewType__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 898,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767970,
+            "contentHash": "e5810fc995052f3e4bd560e857402c61f9013a19",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\TripReport__c\\fields\\Review__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\TripReport__c\\fields\\Review__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 317,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767973,
+            "contentHash": "b28389e99759373da982862ccf50ff507f8771f0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\TripReport__c\\listViews",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\TripReport__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\TripReport__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\TripReport__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 195,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767964,
+            "contentHash": "eede5846f7925354885d8bb27b87ef4f1c577339",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\TripReport__c\\TripReport__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\TripReport__c\\TripReport__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3599,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767965,
+            "contentHash": "1800afa66b03ae3a9cbb0ca4ba311f2ff7b297fc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\User",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\User",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\User\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\User\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "4135129193fec0c744372824d4065bb87dbc6f14",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\User\\fields\\Is_Instructor__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\User\\fields\\Is_Instructor__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 685,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767907,
+            "contentHash": "1f63051a854a28ecde5b487e82ec9c7d3a2d577f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197856000,
+            "changeTime": 1559320768965,
+            "contentHash": "d79e9ae7536b28880b49a8ad786e54603fd0923b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\permissionsets\\Certification.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\permissionsets\\Certification.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9197,
+            "modifiedTime": 1557197856000,
+            "changeTime": 1559320767812,
+            "contentHash": "c26c77f37451ce18819c803b2833e0db19fb1175",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197856000,
+            "changeTime": 1559320768965,
+            "contentHash": "0cd863b97a096d39c61054828816be05639e182f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\profiles\\Training User.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\profiles\\Training User.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 11060,
+            "modifiedTime": 1557197856000,
+            "changeTime": 1559320768004,
+            "contentHash": "b352db28725c52bee89d9bf0386a7bc25e1c73be",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\quickActions",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\quickActions",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "dcf0c8547df367f59b2177356ab3e65ed3fca035",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\quickActions\\LogACall.quickAction-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\quickActions\\LogACall.quickAction-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1107,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767992,
+            "contentHash": "72882cc162b6015cb8c18f17435f45f86af4224f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\quickActions\\NewEvent.quickAction-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\quickActions\\NewEvent.quickAction-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1709,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767997,
+            "contentHash": "899d87883dc29b170683cc63ac7640415629ba6b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\quickActions\\NewTask.quickAction-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\quickActions\\NewTask.quickAction-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1385,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767995,
+            "contentHash": "feebd2b230ada73a954e3c17c7441e26f5056a31",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\quickActions\\SendEmail.quickAction-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\quickActions\\SendEmail.quickAction-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1737,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767993,
+            "contentHash": "73e763d3f636d1824ccdccf8271dee093da63f72",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\settings",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\settings",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "e364e4d3c503804e0ca6d6bb92ab9cc0ceac2327",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\settings\\Security.settings-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\settings\\Security.settings-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2278,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767797,
+            "contentHash": "885e7bc72ea7159293d0530571426f42082075db",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\standardValueSets",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\standardValueSets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "fcad8c592a2dbe21d4d0d155717ae3ca3c754536",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\standardValueSets\\AccountType.standardValueSet-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\standardValueSets\\AccountType.standardValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1972,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767978,
+            "contentHash": "c5652e060568621c271cf09c09a94b6b2a4f5c57",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\standardValueSets\\LeadSource.standardValueSet-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\standardValueSets\\LeadSource.standardValueSet-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1566,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767979,
+            "contentHash": "158e6e01b29d6ae1dc0803e3d1c81af9e944be48",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "d870c026421a76a359f66ef0e0904db8543b1c25",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\tabs\\Certification__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\tabs\\Certification__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 267,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767797,
+            "contentHash": "a345b7f097296b62462501d3304c98a98f8c1d34",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\tabs\\Course_Delivery__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\tabs\\Course_Delivery__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 275,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767797,
+            "contentHash": "88d4e10996931a18e4e956f09e2682629bdc4da0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\tabs\\Course__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\tabs\\Course__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 259,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767797,
+            "contentHash": "f093162900ef683abb6eed4c1f573615e2caf63f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\tabs\\TripReport__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\tabs\\TripReport__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 216,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767797,
+            "contentHash": "013c415492bf6b60b9ca0784ab1c5aee0538259e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\triggers",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\triggers",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320768965,
+            "contentHash": "b2611af2e467aa2971a1b15cb16340e9c34093ff",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\triggers\\CourseAttendeeTrigger.trigger",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\triggers\\CourseAttendeeTrigger.trigger",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 327,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767828,
+            "contentHash": "8684b91d9709f1042fe293bb559b2554fc5eeb18",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\triggers\\CourseAttendeeTrigger.trigger-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\triggers\\CourseAttendeeTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 172,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767844,
+            "contentHash": "fe42e4b6c62d023b7b400677a0f4fc7d0e9f684d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\triggers\\CourseTrigger.trigger",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\triggers\\CourseTrigger.trigger",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 182,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767844,
+            "contentHash": "669dec9b98a6104f1851b7b852c785e2df79b169",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\triggers\\CourseTrigger.trigger-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\triggers\\CourseTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 172,
+            "modifiedTime": 1557197848000,
+            "changeTime": 1559320767844,
+            "contentHash": "fe42e4b6c62d023b7b400677a0f4fc7d0e9f684d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Admin\\Desktop\\LWC",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Admin\\Desktop\\LWC",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559321149650,
+            "changeTime": 1559321149650,
+            "contentHash": "c429bd7cba3bdaefc8088dcfebba4cecb9d79978",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
