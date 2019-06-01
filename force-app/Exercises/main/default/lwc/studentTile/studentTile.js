@@ -18,7 +18,8 @@ export default class StudentTile extends LightningElement {
 	// eslint-disable-next-line no-unused-vars
 	studentClick(event){
 		const selectedEvent = new CustomEvent('studentselected', {
-		detail: { studentId: this.student.Id }
+			bubbles: true, composed: true,
+			detail: { studentId: this.student.Id }
 		});
 		this.dispatchEvent(selectedEvent);
 		}
