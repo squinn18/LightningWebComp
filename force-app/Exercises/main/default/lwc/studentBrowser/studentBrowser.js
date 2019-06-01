@@ -12,7 +12,6 @@ export default class StudentBrowser extends LightningElement {
 	deliverySelected(event){
 		this.selectedDeliveryId = event.detail.deliveryId;
 		this.selectedInstructorId = event.detail.instructorId;
-		}
-	
+	}
 
 }

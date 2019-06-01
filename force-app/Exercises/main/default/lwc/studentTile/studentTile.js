@@ -11,11 +11,14 @@ export default class StudentTile extends LightningElement {
 	@api selected = false;
 
 	get tileSelected() {
-		return this.selected ? "tile selected " : "tile";
+		return (this.selectedStudentId===this.student.Id) ? "tile selected " : "tile";
 	}
 
-	studentClick() {
-		alert(this.student.Name);
+	studentClick(event) {
+		const selectedEvent = new CustomEvent('studentselected', {
+			detail: { studentId: this.student.Id }
+			});
+			this.dispatchEvent(selectedEvent);
 	}
 
 }

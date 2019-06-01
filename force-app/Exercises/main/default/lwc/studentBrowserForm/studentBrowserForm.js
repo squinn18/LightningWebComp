@@ -48,15 +48,15 @@ export default class StudentBrowserForm extends LightningElement {
 		}
 	}
 
-	onInstructorChange(event) {
+	onInstructorChange(event){
 		this.selectedDeliveryId = "";
 		this.selectedInstructorId = event.target.value;
 		this.notifyParent();
-	}
+ }
 
-	onDeliveryChange(event) {
-		this.selectedDeliveryId = event.target.value;
-		this.notifyParent();
+ onDeliveryChange(event) {
+	this.selectedDeliveryId = event.target.value;
+	this.notifyParent();
 	}
 
 	notifyParent() {
@@ -68,5 +68,5 @@ export default class StudentBrowserForm extends LightningElement {
 		});
 		this.dispatchEvent(selectedEvent);
 	}
-
 }
+
