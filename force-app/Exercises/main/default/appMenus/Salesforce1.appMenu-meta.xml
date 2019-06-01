@@ -33,6 +33,10 @@
         <type>StandardAppMenuItem</type>
     </appMenuItems>
     <appMenuItems>
+        <name>Location_Component</name>
+        <type>CustomTab</type>
+    </appMenuItems>
+    <appMenuItems>
         <name>People</name>
         <type>StandardAppMenuItem</type>
     </appMenuItems>

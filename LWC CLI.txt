@@ -1,0 +1,85 @@
+Admin@0VDJSTB-2QPB896 MINGW64 ~/Desktop/LWC (Exercises)
+$ git remote add origin https://github.com/squinn18/LightningWebComp.git
+Admin@0VDJSTB-2QPB896 MINGW64 ~/Desktop/LWC (Exercises)
+$ git push -u origin master
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 267 bytes | 267.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/squinn18/LightningWebComp.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+Admin@0VDJSTB-2QPB896 MINGW64 ~/Desktop/LWC (Exercises)
+$ git push
+fatal: The current branch Exercises has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin Exercises
+
+
+Admin@0VDJSTB-2QPB896 MINGW64 ~/Desktop/LWC (Exercises)
+$ git push -u
+fatal: The current branch Exercises has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin Exercises
+
+
+Admin@0VDJSTB-2QPB896 MINGW64 ~/Desktop/LWC (Exercises)
+$ git push -u origin master
+Everything up-to-date
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+Admin@0VDJSTB-2QPB896 MINGW64 ~/Desktop/LWC (Exercises)
+$ git remotegit remote add origin https://github.com/squinn18/LightningWebComp.git
+git: 'remotegit' is not a git command. See 'git --help'.
+
+The most similar commands are
+        remote-ext
+        remote-ftp
+
+Admin@0VDJSTB-2QPB896 MINGW64 ~/Desktop/LWC (Exercises)
+$ git remote
+origin
+
+Admin@0VDJSTB-2QPB896 MINGW64 ~/Desktop/LWC (Exercises)
+$ git push -uf origin master
+Everything up-to-date
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+Admin@0VDJSTB-2QPB896 MINGW64 ~/Desktop/LWC (Exercises)
+$ git branch
+  Base
+* Exercises
+  SLN_01/01.END
+  SLN_02/02.END
+  SLN_02/03.01
+  SLN_02/03.02
+  SLN_02/03.04
+  SLN_02/03.END
+  SLN_02/04.END
+  SLN_02/05.01
+  SLN_02/05.END
+  SLN_02/07.END
+  SLN_02/08.END
+
+Admin@0VDJSTB-2QPB896 MINGW64 ~/Desktop/LWC (Exercises)
+$ git push -uf origin Exercises
+Enumerating objects: 503, done.
+Counting objects: 100% (503/503), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (449/449), done.
+Writing objects: 100% (501/501), 202.41 KiB | 1.36 MiB/s, done.
+Total 501 (delta 198), reused 0 (delta 0)
+remote: Resolving deltas: 100% (198/198), done.
+remote:
+remote: Create a pull request for 'Exercises' on GitHub by visiting:
+remote:      https://github.com/squinn18/LightningWebComp/pull/new/Exercises
+remote:
+To https://github.com/squinn18/LightningWebComp.git
+ * [new branch]      Exercises -> Exercises
+Branch 'Exercises' set up to track remote branch 'Exercises' from 'origin'.
+
+Admin@0VDJSTB-2QPB896 MINGW64 ~/Desktop/LWC (Exercises)
+$

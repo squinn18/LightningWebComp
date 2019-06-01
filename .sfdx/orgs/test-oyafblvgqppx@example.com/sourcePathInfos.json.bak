@@ -74,15 +74,15 @@
     [
         "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\lwc",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\lwc",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1559425529606,
             "changeTime": 1559425529606,
-            "isWorkspace": false,
-            "contentHash": "835fc1f2d0c11a71507ddf33d781de0e4dc64698"
+            "contentHash": "835fc1f2d0c11a71507ddf33d781de0e4dc64698",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -2662,29 +2662,29 @@
     [
         "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\lwc\\studentBrowser\\studentBrowser.html",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\lwc\\studentBrowser\\studentBrowser.html",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 315,
             "modifiedTime": 1559424642092,
             "changeTime": 1559424642092,
-            "isWorkspace": false,
-            "contentHash": "ed3db3f758d78e1a043b2b683855adabe19bf6e0"
+            "contentHash": "ed3db3f758d78e1a043b2b683855adabe19bf6e0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
         "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\lwc\\studentBrowser\\studentBrowser.js",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\lwc\\studentBrowser\\studentBrowser.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 810,
             "modifiedTime": 1559424900758,
             "changeTime": 1559424900758,
-            "isWorkspace": false,
-            "contentHash": "cbbbc27b8f55a94e829cf82da27d7a6099fe8030"
+            "contentHash": "cbbbc27b8f55a94e829cf82da27d7a6099fe8030",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -2756,14 +2756,14 @@
     [
         "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\flexipages\\AwInstructors.flexipage-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\flexipages\\AwInstructors.flexipage-meta.xml",
             "isDirectory": false,
-            "size": 996,
-            "modifiedTime": 1559338033412,
-            "changeTime": 1559338033412,
-            "contentHash": "0e5525b157636b31eb309fddea407276530fd90d",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 1112,
+            "modifiedTime": 1559425895304,
+            "changeTime": 1559425895304,
+            "contentHash": "e7a9fdc3ef70b283bcb6b1d62bc59deb688d941e"
         }
     ],
     [
@@ -2821,14 +2821,14 @@
     [
         "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
-            "size": 30384,
-            "modifiedTime": 1559338033514,
-            "changeTime": 1559338033514,
-            "contentHash": "b62e046f56aaf5b8388c807c351ccd88119fc150",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 30626,
+            "modifiedTime": 1559425895369,
+            "changeTime": 1559425895369,
+            "contentHash": "073c83afd19e3c5f03c878c308c08f08847256ec"
         }
     ],
     [
@@ -2951,14 +2951,14 @@
     [
         "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\lwc\\studentTile\\studentTile.js",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\lwc\\studentTile\\studentTile.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 682,
             "modifiedTime": 1559424587949,
             "changeTime": 1559424587949,
-            "contentHash": "e24e3bf167dc5d2b958d7a8a5eb4e7c4de9bb66b"
+            "contentHash": "e24e3bf167dc5d2b958d7a8a5eb4e7c4de9bb66b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -3081,92 +3081,92 @@
     [
         "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\lwc\\pubsub",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\lwc\\pubsub",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1559425529623,
             "changeTime": 1559425529623,
-            "contentHash": "825dc4f64293d1cb0763368d6a5b772afed59972"
+            "contentHash": "825dc4f64293d1cb0763368d6a5b772afed59972",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\lwc\\studentDetail",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\lwc\\studentDetail",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1559424323352,
             "changeTime": 1559424323352,
-            "contentHash": "a3eb24d7b6a5ee303f853faf690f598d99a6e0ff"
+            "contentHash": "a3eb24d7b6a5ee303f853faf690f598d99a6e0ff",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\lwc\\pubsub\\pubsub.js",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\lwc\\pubsub\\pubsub.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 3095,
             "modifiedTime": 1559425529621,
             "changeTime": 1559425529621,
-            "contentHash": "5d390f9d772200038b7d6e8183ad4681913f4c82"
+            "contentHash": "5d390f9d772200038b7d6e8183ad4681913f4c82",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\lwc\\pubsub\\pubsub.js-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\lwc\\pubsub\\pubsub.js-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 209,
             "modifiedTime": 1559425529628,
             "changeTime": 1559425529628,
-            "contentHash": "cd5aed137b091f8314d531bfe8a980b54ab2278f"
+            "contentHash": "cd5aed137b091f8314d531bfe8a980b54ab2278f",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\lwc\\studentDetail\\studentDetail.html",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\lwc\\studentDetail\\studentDetail.html",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 271,
-            "modifiedTime": 1559425327849,
-            "changeTime": 1559425327849,
-            "contentHash": "afa7c7df24bf900c69e4dd067dab317c92aeb0fe"
+            "modifiedTime": 1559425784812,
+            "changeTime": 1559425784812,
+            "contentHash": "3d7c8347412489221c4aa3de95aec6d79aed43e7",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\lwc\\studentDetail\\studentDetail.js",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\lwc\\studentDetail\\studentDetail.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 513,
             "modifiedTime": 1559425359385,
             "changeTime": 1559425359385,
-            "contentHash": "30ced2de3677a9ec0ddbf5ca4a5454738dc4814b"
+            "contentHash": "30ced2de3677a9ec0ddbf5ca4a5454738dc4814b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\lwc\\studentDetail\\studentDetail.js-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\lwc\\studentDetail\\studentDetail.js-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 285,
             "modifiedTime": 1559424387398,
             "changeTime": 1559424387398,
-            "contentHash": "15f5f31d660ae3b8fd7eec8178f28615ef1b4adc"
+            "contentHash": "15f5f31d660ae3b8fd7eec8178f28615ef1b4adc",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ]
 ]
