@@ -15,6 +15,7 @@ export default class StudentTile extends LightningElement {
 		return (this.selectedStudentId===this.student.Id) ? "tile selected " : "tile";
     }
 
+	// eslint-disable-next-line no-unused-vars
 	studentClick(event){
 		const selectedEvent = new CustomEvent('studentselected', {
 		detail: { studentId: this.student.Id }
