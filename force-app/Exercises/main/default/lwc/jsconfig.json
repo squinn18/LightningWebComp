@@ -26,6 +26,9 @@
             ],
             "c/map": [
                 "map/map.js"
+            ],
+            "c/courseAttendee": [
+                "courseAttendee/courseAttendee.js"
             ]
         }
     },

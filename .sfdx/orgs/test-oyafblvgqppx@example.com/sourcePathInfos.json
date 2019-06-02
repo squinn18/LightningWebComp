@@ -48,9 +48,9 @@
             "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\aura",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1559434029121,
-            "changeTime": 1559434029121,
-            "contentHash": "c263c2dde19524a8eae416dafa78775a842b8cbc",
+            "modifiedTime": 1559435054054,
+            "changeTime": 1559435054054,
+            "contentHash": "1c48f44c6632367cbadc5470a728b9e2e8fb0ef2",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -76,9 +76,9 @@
             "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\lwc",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1559432008109,
-            "changeTime": 1559432008109,
-            "contentHash": "8b289000d606ee223186880f1b3f57368d292301",
+            "modifiedTime": 1559435112558,
+            "changeTime": 1559435112558,
+            "contentHash": "7709876a68f9936cab24238bb5ffde9c18b8e9d5",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -162,14 +162,14 @@
     [
         "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\applications\\Certification_Lightning.app-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\applications\\Certification_Lightning.app-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 1108,
             "modifiedTime": 1559434604411,
             "changeTime": 1559434604411,
-            "contentHash": "f0d1d6e1b63ac61df68c95db34bb08cf3629252b"
+            "contentHash": "f0d1d6e1b63ac61df68c95db34bb08cf3629252b",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -1508,31 +1508,27 @@
     [
         "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Attendee__c",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Attendee__c",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1557197856000,
-            "changeTime": 1559320768965,
-            "contentHash": "f227ab4933543f56141940a4be47f2cb836d59a2",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 0,
+            "modifiedTime": 1559436035482,
+            "changeTime": 1559436035482,
+            "contentHash": "278b9837a3b8a208ff7640c6c204e41d8819b1c3"
         }
     ],
     [
         "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Attendee__c\\Course_Attendee__c.object-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Attendee__c\\Course_Attendee__c.object-meta.xml",
             "isDirectory": false,
-            "size": 1967,
-            "modifiedTime": 1557197856000,
-            "changeTime": 1559320767907,
-            "contentHash": "31beb311f897a1a43baa376f6bf12dd06f11e312",
             "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 2438,
+            "modifiedTime": 1559436035454,
+            "changeTime": 1559436035454,
+            "contentHash": "953f4bc8b2068dedc4eb6831d1070be9180ca2f8"
         }
     ],
     [
@@ -2288,14 +2284,14 @@
     [
         "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\permissionsets\\Certification.permissionset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\permissionsets\\Certification.permissionset-meta.xml",
             "isDirectory": false,
+            "size": 9544,
+            "modifiedTime": 1559435129717,
+            "changeTime": 1559435129717,
+            "contentHash": "aeab2233596865b60467fc351215c707140197d3",
             "isMetadataFile": true,
-            "size": 9427,
-            "modifiedTime": 1559434604549,
-            "changeTime": 1559434604549,
-            "contentHash": "b0bc17ca41fe97e115bed4b269f1f4b68b5784a7"
+            "state": "u"
         }
     ],
     [
@@ -2316,14 +2312,14 @@
     [
         "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\profiles\\Training User.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\profiles\\Training User.profile-meta.xml",
             "isDirectory": false,
+            "size": 15975,
+            "modifiedTime": 1559435129602,
+            "changeTime": 1559435129602,
+            "contentHash": "bf2906dec42189287c052af5b678c13739690791",
             "isMetadataFile": true,
-            "size": 15849,
-            "modifiedTime": 1559434604437,
-            "changeTime": 1559434604437,
-            "contentHash": "e83e2f91ed2d2f185e0ca54e693f834fc774e6fc"
+            "state": "u"
         }
     ],
     [
@@ -2778,53 +2774,53 @@
     [
         "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
+            "size": 14411,
+            "modifiedTime": 1559435129627,
+            "changeTime": 1559435129627,
+            "contentHash": "51155f794e154560888abf4818cee5b4f8e1a8f1",
             "isMetadataFile": true,
-            "size": 14285,
-            "modifiedTime": 1559434604469,
-            "changeTime": 1559434604469,
-            "contentHash": "ea24888d7af8152370d9b9948c89831212159c1b"
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
+            "size": 14411,
+            "modifiedTime": 1559435129663,
+            "changeTime": 1559435129663,
+            "contentHash": "51155f794e154560888abf4818cee5b4f8e1a8f1",
             "isMetadataFile": true,
-            "size": 14285,
-            "modifiedTime": 1559434604489,
-            "changeTime": 1559434604489,
-            "contentHash": "ea24888d7af8152370d9b9948c89831212159c1b"
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
+            "size": 14749,
+            "modifiedTime": 1559435129680,
+            "changeTime": 1559435129680,
+            "contentHash": "0a19880517d7799e6cbcf1ccd9da5e96b6f76c86",
             "isMetadataFile": true,
-            "size": 14623,
-            "modifiedTime": 1559434604507,
-            "changeTime": 1559434604507,
-            "contentHash": "ca7a5a63bfea35b6967a7c32bf1f71485295cf09"
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
+            "size": 31412,
+            "modifiedTime": 1559435129707,
+            "changeTime": 1559435129707,
+            "contentHash": "e7caee3d49b079735e8c86993aeb0076c6984788",
             "isMetadataFile": true,
-            "size": 31286,
-            "modifiedTime": 1559434604535,
-            "changeTime": 1559434604535,
-            "contentHash": "5ad14b9f7cc8e50cc06e21a8eac68be414f3b8f1"
+            "state": "u"
         }
     ],
     [
@@ -2856,14 +2852,14 @@
     [
         "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\tabs",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\tabs",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1559434604401,
-            "changeTime": 1559434604401,
-            "contentHash": "ff08ed82368d1b79020ae4d109d9eaa19e31c16d"
+            "modifiedTime": 1559435129573,
+            "changeTime": 1559435129573,
+            "contentHash": "edc5d77e0d91bd03ba48e5eccce7a979bc07daf6",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -3675,14 +3671,144 @@
     [
         "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\tabs\\AwInstructors_Cmp_Tab.tab-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\tabs\\AwInstructors_Cmp_Tab.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 274,
             "modifiedTime": 1559434604402,
             "changeTime": 1559434604402,
-            "contentHash": "3a3bc1f752249d455f3be9be17d0e0cfd1ad6809"
+            "contentHash": "3a3bc1f752249d455f3be9be17d0e0cfd1ad6809",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\tabs\\Course_Attendee__c.tab-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\tabs\\Course_Attendee__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 223,
+            "modifiedTime": 1559435129573,
+            "changeTime": 1559435129573,
+            "contentHash": "6e6ce36238c68c3363a64744a7072e1a6ec83ae1",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\aura\\Override_View_CourseAttendee",
+        {
+            "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\aura\\Override_View_CourseAttendee",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559435054060,
+            "changeTime": 1559435054060,
+            "contentHash": "e24109d827f7d699ad3c3ffece6d9896c5d9e505",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\lwc\\courseAttendee",
+        {
+            "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\lwc\\courseAttendee",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559435112578,
+            "changeTime": 1559435112578,
+            "contentHash": "526cb0999c890d409b7cc874661c2a529f94d410",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\aura\\Override_View_CourseAttendee\\Override_View_CourseAttendee.cmp",
+        {
+            "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\aura\\Override_View_CourseAttendee\\Override_View_CourseAttendee.cmp",
+            "isDirectory": false,
+            "size": 195,
+            "modifiedTime": 1559435054058,
+            "changeTime": 1559435054058,
+            "contentHash": "4620e383a3399b38ec8d0fa0063441fb46b2d0ce",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\aura\\Override_View_CourseAttendee\\Override_View_CourseAttendee.cmp-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\aura\\Override_View_CourseAttendee\\Override_View_CourseAttendee.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 254,
+            "modifiedTime": 1559435054065,
+            "changeTime": 1559435054065,
+            "contentHash": "940debf3cc0b5198824b99f29b9fceb3a7c25646",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\lwc\\courseAttendee\\courseAttendee.html",
+        {
+            "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\lwc\\courseAttendee\\courseAttendee.html",
+            "isDirectory": false,
+            "size": 902,
+            "modifiedTime": 1559435112566,
+            "changeTime": 1559435112566,
+            "contentHash": "80ba31f240a578d1e23be8ed80295d4b142e51fb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\lwc\\courseAttendee\\courseAttendee.js",
+        {
+            "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\lwc\\courseAttendee\\courseAttendee.js",
+            "isDirectory": false,
+            "size": 1884,
+            "modifiedTime": 1559435112574,
+            "changeTime": 1559435112574,
+            "contentHash": "dbbf765cbe563b0a7ea443ec97753256d531849f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\lwc\\courseAttendee\\courseAttendee.js-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\lwc\\courseAttendee\\courseAttendee.js-meta.xml",
+            "isDirectory": false,
+            "size": 229,
+            "modifiedTime": 1559435112581,
+            "changeTime": 1559435112581,
+            "contentHash": "2d30d1f187c492880105079fd8ac574fe3bfffb0",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Attendee__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Attendee__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1559436035483,
+            "changeTime": 1559436035483,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd"
+        }
+    ],
+    [
+        "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Attendee__c\\listViews",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\objects\\Course_Attendee__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1559436035483,
+            "changeTime": 1559436035483,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6"
         }
     ]
 ]
