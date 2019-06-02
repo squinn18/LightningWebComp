@@ -48,9 +48,9 @@
             "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\aura",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1559430723367,
-            "changeTime": 1559430723367,
-            "contentHash": "0a9a2cf13051cc3065514a3e3be2990c649b9e5f",
+            "modifiedTime": 1559434029121,
+            "changeTime": 1559434029121,
+            "contentHash": "c263c2dde19524a8eae416dafa78775a842b8cbc",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -162,14 +162,14 @@
     [
         "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\applications\\Certification_Lightning.app-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\applications\\Certification_Lightning.app-meta.xml",
             "isDirectory": false,
-            "size": 1069,
-            "modifiedTime": 1559338033421,
-            "changeTime": 1559338033421,
-            "contentHash": "37ca3c473c06378657ad11b15faae4ece3e7634c",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 1108,
+            "modifiedTime": 1559434604411,
+            "changeTime": 1559434604411,
+            "contentHash": "f0d1d6e1b63ac61df68c95db34bb08cf3629252b"
         }
     ],
     [
@@ -460,14 +460,14 @@
     [
         "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\flexipages\\Course_Delivery_Record_Page.flexipage-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\flexipages\\Course_Delivery_Record_Page.flexipage-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4716,
             "modifiedTime": 1559433971961,
             "changeTime": 1559433971961,
-            "contentHash": "d507d517a6d3c19c9780fad87dd064fc8215403c"
+            "contentHash": "d507d517a6d3c19c9780fad87dd064fc8215403c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -2288,14 +2288,14 @@
     [
         "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\permissionsets\\Certification.permissionset-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\permissionsets\\Certification.permissionset-meta.xml",
             "isDirectory": false,
-            "size": 9308,
-            "modifiedTime": 1559338033528,
-            "changeTime": 1559338033528,
-            "contentHash": "81ad26fb6196354592bdbacb4d67d4f823cbfcc6",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 9427,
+            "modifiedTime": 1559434604549,
+            "changeTime": 1559434604549,
+            "contentHash": "b0bc17ca41fe97e115bed4b269f1f4b68b5784a7"
         }
     ],
     [
@@ -2316,14 +2316,14 @@
     [
         "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\profiles\\Training User.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\profiles\\Training User.profile-meta.xml",
             "isDirectory": false,
-            "size": 15629,
-            "modifiedTime": 1559430682157,
-            "changeTime": 1559430682157,
-            "contentHash": "0a4c09bb676ab1da961a09bd5099fb826b92eb9d",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 15849,
+            "modifiedTime": 1559434604437,
+            "changeTime": 1559434604437,
+            "contentHash": "e83e2f91ed2d2f185e0ca54e693f834fc774e6fc"
         }
     ],
     [
@@ -2778,53 +2778,53 @@
     [
         "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 14156,
-            "modifiedTime": 1559430682194,
-            "changeTime": 1559430682194,
-            "contentHash": "d138ce9f726bfa83747a709f119c72f0625aeef4",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 14285,
+            "modifiedTime": 1559434604469,
+            "changeTime": 1559434604469,
+            "contentHash": "ea24888d7af8152370d9b9948c89831212159c1b"
         }
     ],
     [
         "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 14156,
-            "modifiedTime": 1559430682223,
-            "changeTime": 1559430682223,
-            "contentHash": "d138ce9f726bfa83747a709f119c72f0625aeef4",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 14285,
+            "modifiedTime": 1559434604489,
+            "changeTime": 1559434604489,
+            "contentHash": "ea24888d7af8152370d9b9948c89831212159c1b"
         }
     ],
     [
         "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "size": 14494,
-            "modifiedTime": 1559430682244,
-            "changeTime": 1559430682244,
-            "contentHash": "ea91381216b66db457f97e8bd30b25e8dfd15695",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 14623,
+            "modifiedTime": 1559434604507,
+            "changeTime": 1559434604507,
+            "contentHash": "ca7a5a63bfea35b6967a7c32bf1f71485295cf09"
         }
     ],
     [
         "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
-            "size": 31066,
-            "modifiedTime": 1559430682273,
-            "changeTime": 1559430682273,
-            "contentHash": "6165ce1e3667c6a86dd39ac22ed43db2cc4664f2",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 31286,
+            "modifiedTime": 1559434604535,
+            "changeTime": 1559434604535,
+            "contentHash": "5ad14b9f7cc8e50cc06e21a8eac68be414f3b8f1"
         }
     ],
     [
@@ -2843,27 +2843,27 @@
     [
         "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\flexipages",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\flexipages",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1559433971968,
             "changeTime": 1559433971968,
-            "contentHash": "b8e3fc7ebbca22a78e8a9871ee587a2af18e9bbb"
+            "contentHash": "b8e3fc7ebbca22a78e8a9871ee587a2af18e9bbb",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\tabs",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\tabs",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1559430682124,
-            "changeTime": 1559430682124,
-            "contentHash": "22522308c60a86a51632212a8a784d29788606cf",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 0,
+            "modifiedTime": 1559434604401,
+            "changeTime": 1559434604401,
+            "contentHash": "ff08ed82368d1b79020ae4d109d9eaa19e31c16d"
         }
     ],
     [
@@ -3532,14 +3532,157 @@
     [
         "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\flexipages\\Course_Delivery_with_a_Map.flexipage-meta.xml",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\flexipages\\Course_Delivery_with_a_Map.flexipage-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 1459,
             "modifiedTime": 1559433971969,
             "changeTime": 1559433971969,
-            "contentHash": "8badf93ba8c0fa774c46080390b65e7d558fbe98"
+            "contentHash": "8badf93ba8c0fa774c46080390b65e7d558fbe98",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\aura\\AwInstructors",
+        {
+            "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\aura\\AwInstructors",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559434029145,
+            "changeTime": 1559434029145,
+            "contentHash": "73292cedcce48311017b352134c0979b595edfd2",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\aura\\AwInstructors\\AwInstructors.auradoc",
+        {
+            "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\aura\\AwInstructors\\AwInstructors.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1559434029143,
+            "changeTime": 1559434029143,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\aura\\AwInstructors\\AwInstructors.cmp",
+        {
+            "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\aura\\AwInstructors\\AwInstructors.cmp",
+            "isDirectory": false,
+            "size": 432,
+            "modifiedTime": 1559434190948,
+            "changeTime": 1559434190948,
+            "contentHash": "89b4235f94625c8ee708b87e35e22a036ea4d580",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\aura\\AwInstructors\\AwInstructors.cmp-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\aura\\AwInstructors\\AwInstructors.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 245,
+            "modifiedTime": 1559434029124,
+            "changeTime": 1559434029124,
+            "contentHash": "f34a37ef3c8fd3f37946feef6a6c983f2b66c8a3",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\aura\\AwInstructors\\AwInstructors.css",
+        {
+            "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\aura\\AwInstructors\\AwInstructors.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1559434029138,
+            "changeTime": 1559434029138,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\aura\\AwInstructors\\AwInstructors.design",
+        {
+            "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\aura\\AwInstructors\\AwInstructors.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1559434029145,
+            "changeTime": 1559434029145,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\aura\\AwInstructors\\AwInstructors.svg",
+        {
+            "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\aura\\AwInstructors\\AwInstructors.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1559434029142,
+            "changeTime": 1559434029142,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\aura\\AwInstructors\\AwInstructorsController.js",
+        {
+            "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\aura\\AwInstructors\\AwInstructorsController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1559434029132,
+            "changeTime": 1559434029132,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\aura\\AwInstructors\\AwInstructorsHelper.js",
+        {
+            "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\aura\\AwInstructors\\AwInstructorsHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1559434029135,
+            "changeTime": 1559434029135,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\aura\\AwInstructors\\AwInstructorsRenderer.js",
+        {
+            "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\aura\\AwInstructors\\AwInstructorsRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1559434029140,
+            "changeTime": 1559434029140,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\tabs\\AwInstructors_Cmp_Tab.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\tabs\\AwInstructors_Cmp_Tab.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 274,
+            "modifiedTime": 1559434604402,
+            "changeTime": 1559434604402,
+            "contentHash": "3a3bc1f752249d455f3be9be17d0e0cfd1ad6809"
         }
     ]
 ]

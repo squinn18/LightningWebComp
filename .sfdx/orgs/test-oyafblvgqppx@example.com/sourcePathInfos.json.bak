@@ -460,16 +460,14 @@
     [
         "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\flexipages\\Course_Delivery_Record_Page.flexipage-meta.xml",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Base\\main\\default\\flexipages\\Course_Delivery_Record_Page.flexipage-meta.xml",
             "isDirectory": false,
-            "size": 3800,
-            "modifiedTime": 1557197848000,
-            "changeTime": 1559320767828,
-            "contentHash": "b06cd7335ff91861160aa1967077a8c8705ad638",
             "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "size": 4716,
+            "modifiedTime": 1559433971961,
+            "changeTime": 1559433971961,
+            "contentHash": "d507d517a6d3c19c9780fad87dd064fc8215403c"
         }
     ],
     [
@@ -2845,14 +2843,14 @@
     [
         "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\flexipages",
         {
+            "state": "u",
             "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\flexipages",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1559430682119,
-            "changeTime": 1559430682119,
-            "contentHash": "84bbfe690f0616451964e673e4fa55d5e23427a7",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 0,
+            "modifiedTime": 1559433971968,
+            "changeTime": 1559433971968,
+            "contentHash": "b8e3fc7ebbca22a78e8a9871ee587a2af18e9bbb"
         }
     ],
     [
@@ -3497,10 +3495,10 @@
         {
             "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\lwc\\map\\map.html",
             "isDirectory": false,
-            "size": 183,
-            "modifiedTime": 1559432754259,
-            "changeTime": 1559432754259,
-            "contentHash": "f4b8871167ffd6334e58674e7384df0c566aae9a",
+            "size": 186,
+            "modifiedTime": 1559433795506,
+            "changeTime": 1559433795506,
+            "contentHash": "378be591ffc297fb7d6a500c689c2584f1e30531",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -3508,14 +3506,14 @@
     [
         "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\lwc\\map\\map.js",
         {
-            "state": "u",
             "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\lwc\\map\\map.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1146,
             "modifiedTime": 1559433405424,
             "changeTime": 1559433405424,
-            "contentHash": "8c5bd0b81c9d1ae559245b01c16a320b84eac8cb"
+            "contentHash": "8c5bd0b81c9d1ae559245b01c16a320b84eac8cb",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -3529,6 +3527,19 @@
             "contentHash": "0546e2d061834c6621fdcb3e990615ac31083875",
             "isMetadataFile": true,
             "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\flexipages\\Course_Delivery_with_a_Map.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\Admin\\Desktop\\LWC\\force-app\\Exercises\\main\\default\\flexipages\\Course_Delivery_with_a_Map.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1459,
+            "modifiedTime": 1559433971969,
+            "changeTime": 1559433971969,
+            "contentHash": "8badf93ba8c0fa774c46080390b65e7d558fbe98"
         }
     ]
 ]
