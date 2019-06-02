@@ -23,6 +23,9 @@
             ],
             "c/locationComponent": [
                 "locationComponent/locationComponent.js"
+            ],
+            "c/map": [
+                "map/map.js"
             ]
         }
     },
